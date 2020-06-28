@@ -2,3 +2,13 @@ body{
 
     background-color: blue;
 }
+p{
+
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+h1{
+
+    font-family: fantasy;
+}
